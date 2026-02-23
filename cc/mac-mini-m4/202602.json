@@ -330,11 +330,11 @@
   "2026-02-23": [
     {
       "modelName": "claude-sonnet-4-6",
-      "inputTokens": 16170,
-      "outputTokens": 48134,
-      "cacheCreationTokens": 1139372,
-      "cacheReadTokens": 25215494,
-      "cost": 12.607813199999997
+      "inputTokens": 16182,
+      "outputTokens": 48757,
+      "cacheCreationTokens": 1202550,
+      "cacheReadTokens": 25854605,
+      "cost": 13.045844999999995
     },
     {
       "modelName": "claude-haiku-4-5-20251001",
