@@ -1,6 +1,8 @@
 {
 	"name": "ai-usage-log",
-	"private": true,
+	"bin": {
+		"ai-usage-sync": "scripts/sync.mjs"
+	},
 	"scripts": {
 		"sync": "node scripts/sync.mjs"
 	}

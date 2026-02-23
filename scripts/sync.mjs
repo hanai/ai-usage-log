@@ -1,9 +1,10 @@
+#!/usr/bin/env node
 import { execSync } from 'node:child_process'
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs'
+import os from 'node:os'
 import path from 'node:path'
-import { fileURLToPath } from 'node:url'
 
-const rootDir = path.join(path.dirname(fileURLToPath(import.meta.url)), '..')
+const dataDir = path.join(os.homedir(), '.ai-usage-log')
 
 const device = process.env.AI_USAGE_DEVICE
 if (!device) {
@@ -29,7 +30,7 @@ for (const entry of daily) {
 	byMonth.get(month).set(entry.date, entry.modelBreakdowns)
 }
 
-const ccDir = path.join(rootDir, 'cc', device)
+const ccDir = path.join(dataDir, 'cc', device)
 if (!existsSync(ccDir)) mkdirSync(ccDir, { recursive: true })
 
 for (const [month, newEntries] of byMonth) {
