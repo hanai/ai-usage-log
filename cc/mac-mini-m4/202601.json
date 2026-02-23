@@ -1,0 +1,202 @@
+{
+  "2026-01-22": [
+    {
+      "modelName": "gemini-3-pro-high",
+      "inputTokens": 3237338,
+      "outputTokens": 0,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 0,
+      "cost": 6.474676000000001
+    }
+  ],
+  "2026-01-23": [
+    {
+      "modelName": "gemini-3-pro-high",
+      "inputTokens": 700948,
+      "outputTokens": 0,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 0,
+      "cost": 1.4018959999999998
+    }
+  ],
+  "2026-01-25": [
+    {
+      "modelName": "gemini-3-pro-high",
+      "inputTokens": 4672845,
+      "outputTokens": 0,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 0,
+      "cost": 9.345689999999998
+    },
+    {
+      "modelName": "claude-sonnet-4-5-thinking",
+      "inputTokens": 45694,
+      "outputTokens": 0,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 0,
+      "cost": 0.137082
+    },
+    {
+      "modelName": "gpt-oss:20b",
+      "inputTokens": 4096,
+      "outputTokens": 2998,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 0,
+      "cost": 0
+    },
+    {
+      "modelName": "claude-sonnet-4.5",
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 0,
+      "cost": 0
+    }
+  ],
+  "2026-01-26": [
+    {
+      "modelName": "gemini-3-pro-high",
+      "inputTokens": 14394446,
+      "outputTokens": 18,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 122275,
+      "cost": 28.81356299999999
+    },
+    {
+      "modelName": "claude-sonnet-4-5-thinking",
+      "inputTokens": 151128,
+      "outputTokens": 0,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 1634829,
+      "cost": 0.9438327
+    }
+  ],
+  "2026-01-27": [
+    {
+      "modelName": "claude-sonnet-4-5-thinking",
+      "inputTokens": 229742,
+      "outputTokens": 0,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 257999,
+      "cost": 0.7666257000000002
+    },
+    {
+      "modelName": "gemini-3-pro-high",
+      "inputTokens": 92456,
+      "outputTokens": 0,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 0,
+      "cost": 0.18491200000000002
+    },
+    {
+      "modelName": "glm-4.7",
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 0,
+      "cost": 0
+    },
+    {
+      "modelName": "glm-4.7-flash:latest",
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 0,
+      "cost": 0
+    }
+  ],
+  "2026-01-28": [
+    {
+      "modelName": "claude-sonnet-4-5-thinking",
+      "inputTokens": 221447,
+      "outputTokens": 0,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 4274571,
+      "cost": 1.9467123000000008
+    },
+    {
+      "modelName": "claude-sonnet-4.5",
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 0,
+      "cost": 0
+    },
+    {
+      "modelName": "kimi-for-coding",
+      "inputTokens": 3627057,
+      "outputTokens": 0,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 0,
+      "cost": 0
+    }
+  ],
+  "2026-01-30": [
+    {
+      "modelName": "kimi-for-coding",
+      "inputTokens": 13337829,
+      "outputTokens": 0,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 0,
+      "cost": 0
+    },
+    {
+      "modelName": "gpt-4o-2024-11-20",
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 0,
+      "cost": 0
+    },
+    {
+      "modelName": "claude-sonnet-4.5",
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 0,
+      "cost": 0
+    },
+    {
+      "modelName": "glm-4.7",
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 0,
+      "cost": 0
+    }
+  ],
+  "2026-01-31": [
+    {
+      "modelName": "kimi-for-coding",
+      "inputTokens": 9036244,
+      "outputTokens": 0,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 0,
+      "cost": 0
+    },
+    {
+      "modelName": "glm-4.7",
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 0,
+      "cost": 0
+    },
+    {
+      "modelName": "glm-4.5-air",
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 0,
+      "cost": 0
+    },
+    {
+      "modelName": "claude-sonnet-4.5",
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 0,
+      "cost": 0
+    }
+  ]
+}
