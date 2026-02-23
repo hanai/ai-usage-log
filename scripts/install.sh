@@ -52,7 +52,7 @@ cat > "$PLIST_PATH" <<PLIST
 	<key>StandardErrorPath</key>
 	<string>$REPO/logs/sync.error.log</string>
 	<key>RunAtLoad</key>
-	<false/>
+	<true/>
 </dict>
 </plist>
 PLIST
