@@ -1,0 +1,7 @@
+{
+	"name": "ai-usage-log",
+	"private": true,
+	"scripts": {
+		"sync": "node scripts/sync.mjs"
+	}
+}
