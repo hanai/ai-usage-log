@@ -128,7 +128,7 @@
       "outputTokens": 0,
       "cacheCreationTokens": 0,
       "cacheReadTokens": 0,
-      "cost": 0
+      "cost": 7.2541139999999995
     }
   ],
   "2026-01-30": [
@@ -138,7 +138,7 @@
       "outputTokens": 0,
       "cacheCreationTokens": 0,
       "cacheReadTokens": 0,
-      "cost": 0
+      "cost": 26.675657999999995
     },
     {
       "modelName": "gpt-4o-2024-11-20",
@@ -172,7 +172,7 @@
       "outputTokens": 0,
       "cacheCreationTokens": 0,
       "cacheReadTokens": 0,
-      "cost": 0
+      "cost": 18.072487999999996
     },
     {
       "modelName": "glm-4.7",
