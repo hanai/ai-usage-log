@@ -1,0 +1,28 @@
+{
+  "2026-03-01": [
+    {
+      "modelName": "claude-opus-4-6",
+      "inputTokens": 28,
+      "outputTokens": 1830,
+      "cacheCreationTokens": 81506,
+      "cacheReadTokens": 389519,
+      "cost": 0.750062
+    },
+    {
+      "modelName": "glm-5",
+      "inputTokens": 221072,
+      "outputTokens": 20432,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 924672,
+      "cost": 0.3789216000000001
+    },
+    {
+      "modelName": "claude-haiku-4-5-20251001",
+      "inputTokens": 18,
+      "outputTokens": 1142,
+      "cacheCreationTokens": 20697,
+      "cacheReadTokens": 116152,
+      "cost": 0.04321445
+    }
+  ]
+}

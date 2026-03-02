@@ -134,11 +134,11 @@
   "2026-01-30": [
     {
       "modelName": "kimi-for-coding",
-      "inputTokens": 13337829,
+      "inputTokens": 2796426,
       "outputTokens": 0,
       "cacheCreationTokens": 0,
       "cacheReadTokens": 0,
-      "cost": 26.675657999999995
+      "cost": 5.592852000000001
     },
     {
       "modelName": "gpt-4o-2024-11-20",
