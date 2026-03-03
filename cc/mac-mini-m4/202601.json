@@ -134,11 +134,11 @@
   "2026-01-30": [
     {
       "modelName": "kimi-for-coding",
-      "inputTokens": 2796426,
+      "inputTokens": 15763,
       "outputTokens": 0,
       "cacheCreationTokens": 0,
       "cacheReadTokens": 0,
-      "cost": 5.592852000000001
+      "cost": 0.031526
     },
     {
       "modelName": "gpt-4o-2024-11-20",
@@ -168,11 +168,11 @@
   "2026-01-31": [
     {
       "modelName": "kimi-for-coding",
-      "inputTokens": 9036244,
+      "inputTokens": 5884258,
       "outputTokens": 0,
       "cacheCreationTokens": 0,
       "cacheReadTokens": 0,
-      "cost": 18.072487999999996
+      "cost": 11.768515999999998
     },
     {
       "modelName": "glm-4.7",
