@@ -52,5 +52,15 @@
       "cacheReadTokens": 0,
       "cost": 0
     }
+  ],
+  "2026-03-05": [
+    {
+      "modelName": "claude-opus-4-6",
+      "inputTokens": 44,
+      "outputTokens": 3383,
+      "cacheCreationTokens": 34498,
+      "cacheReadTokens": 687191,
+      "cost": 0.6440029999999999
+    }
   ]
 }
