@@ -168,11 +168,11 @@
   "2026-01-31": [
     {
       "modelName": "kimi-for-coding",
-      "inputTokens": 4586498,
+      "inputTokens": 1426779,
       "outputTokens": 0,
       "cacheCreationTokens": 0,
       "cacheReadTokens": 0,
-      "cost": 9.172996000000001
+      "cost": 2.8535580000000005
     },
     {
       "modelName": "glm-4.7",
