@@ -84,11 +84,11 @@
   "2026-02-06": [
     {
       "modelName": "glm-4.7",
-      "inputTokens": 263477,
-      "outputTokens": 2309,
+      "inputTokens": 41339,
+      "outputTokens": 794,
       "cacheCreationTokens": 0,
-      "cacheReadTokens": 181120,
-      "cost": 0.5991730000000001
+      "cacheReadTokens": 118528,
+      "cost": 0.09519625
     }
   ],
   "2026-02-07": [
