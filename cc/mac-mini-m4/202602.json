@@ -102,11 +102,11 @@
     },
     {
       "modelName": "glm-4.7",
-      "inputTokens": 785387,
-      "outputTokens": 19807,
+      "inputTokens": 58287,
+      "outputTokens": 448,
       "cacheCreationTokens": 0,
-      "cacheReadTokens": 3465600,
-      "cost": 1.82159
+      "cacheReadTokens": 30080,
+      "cost": 0.13237775000000002
     },
     {
       "modelName": "claude-sonnet-4-5-thinking",
