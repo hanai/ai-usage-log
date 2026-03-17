@@ -102,11 +102,11 @@
     },
     {
       "modelName": "glm-4.7",
-      "inputTokens": 58287,
-      "outputTokens": 448,
+      "inputTokens": 0,
+      "outputTokens": 0,
       "cacheCreationTokens": 0,
-      "cacheReadTokens": 30080,
-      "cost": 0.13237775000000002
+      "cacheReadTokens": 0,
+      "cost": 0
     },
     {
       "modelName": "claude-sonnet-4-5-thinking",
@@ -138,11 +138,11 @@
   "2026-02-09": [
     {
       "modelName": "gemini-3-pro-high",
-      "inputTokens": 22546067,
-      "outputTokens": 47870,
+      "inputTokens": 6439257,
+      "outputTokens": 0,
       "cacheCreationTokens": 0,
-      "cacheReadTokens": 3616356,
-      "cost": 46.38984519999989
+      "cacheReadTokens": 0,
+      "cost": 12.878513999999997
     },
     {
       "modelName": "claude-opus-4-5-thinking",
@@ -154,11 +154,11 @@
     },
     {
       "modelName": "claude-sonnet-4-5-20250929",
-      "inputTokens": 3233,
-      "outputTokens": 1052,
-      "cacheCreationTokens": 344707,
-      "cacheReadTokens": 5366180,
-      "cost": 2.927984250000002
+      "inputTokens": 278,
+      "outputTokens": 952,
+      "cacheCreationTokens": 143643,
+      "cacheReadTokens": 988184,
+      "cost": 0.8502304499999997
     },
     {
       "modelName": "claude-opus-4-6",
@@ -188,71 +188,71 @@
   "2026-02-10": [
     {
       "modelName": "claude-sonnet-4-5-thinking",
-      "inputTokens": 1487629,
-      "outputTokens": 14854,
+      "inputTokens": 396952,
+      "outputTokens": 922,
       "cacheCreationTokens": 0,
-      "cacheReadTokens": 2481617,
-      "cost": 5.430182099999998
+      "cacheReadTokens": 1502145,
+      "cost": 1.6553295000000008
     },
     {
       "modelName": "gemini-3-pro-high",
-      "inputTokens": 1817049,
-      "outputTokens": 4010,
+      "inputTokens": 684122,
+      "outputTokens": 0,
       "cacheCreationTokens": 0,
-      "cacheReadTokens": 300897,
-      "cost": 3.7423974000000024
+      "cacheReadTokens": 0,
+      "cost": 1.3682439999999993
     },
     {
       "modelName": "claude-sonnet-4-5-20250929",
-      "inputTokens": 106,
-      "outputTokens": 1017,
-      "cacheCreationTokens": 198589,
-      "cacheReadTokens": 344594,
-      "cost": 0.8636599500000005
+      "inputTokens": 84,
+      "outputTokens": 288,
+      "cacheCreationTokens": 82653,
+      "cacheReadTokens": 213665,
+      "cost": 0.37862025000000005
     },
     {
       "modelName": "glm-4.7",
-      "inputTokens": 172103,
-      "outputTokens": 8591,
+      "inputTokens": 0,
+      "outputTokens": 0,
       "cacheCreationTokens": 0,
-      "cacheReadTokens": 1655424,
-      "cost": 0.41085699999999997
+      "cacheReadTokens": 0,
+      "cost": 0
     }
   ],
   "2026-02-11": [
     {
       "modelName": "claude-sonnet-4-5-20250929",
-      "inputTokens": 79203,
-      "outputTokens": 1539,
-      "cacheCreationTokens": 688377,
-      "cacheReadTokens": 3898847,
-      "cost": 4.01176185
+      "inputTokens": 166,
+      "outputTokens": 1197,
+      "cacheCreationTokens": 330040,
+      "cacheReadTokens": 1104120,
+      "cost": 1.5873390000000003
     }
   ],
   "2026-02-12": [
     {
       "modelName": "claude-opus-4-6",
-      "inputTokens": 20779,
-      "outputTokens": 1104,
-      "cacheCreationTokens": 233996,
-      "cacheReadTokens": 3334586,
-      "cost": 3.2612630000000005
+      "inputTokens": 5,
+      "outputTokens": 4,
+      "cacheCreationTokens": 19235,
+      "cacheReadTokens": 10473,
+      "cost": 0.12558025
     },
     {
       "modelName": "glm-4.7",
-      "inputTokens": 300489,
-      "outputTokens": 42816,
+      "inputTokens": 13810,
+      "outputTokens": 972,
       "cacheCreationTokens": 0,
-      "cacheReadTokens": 3273216,
-      "cost": 0.7938442499999998
+      "cacheReadTokens": 87296,
+      "cost": 0.0337455
     },
     {
       "modelName": "claude-sonnet-4-5-20250929",
-      "inputTokens": 5661,
-      "outputTokens": 141,
-      "cacheCreationTokens": 108733,
-      "cacheReadTokens": 447747,
-      "cost": 0.5611708499999999
+      "inputTokens": 19,
+      "outputTokens": 68,
+      "cacheCreationTokens": 47408,
+      "cacheReadTokens": 94803,
+      "cost": 0.20729790000000003
     }
   ],
   "2026-02-13": [
@@ -266,11 +266,11 @@
     },
     {
       "modelName": "glm-4.7",
-      "inputTokens": 392430,
-      "outputTokens": 32060,
+      "inputTokens": 370,
+      "outputTokens": 117,
       "cacheCreationTokens": 0,
-      "cacheReadTokens": 5013888,
-      "cost": 0.9711325000000001
+      "cacheReadTokens": 26112,
+      "cost": 0.0011542500000000001
     },
     {
       "modelName": "glm-5",
