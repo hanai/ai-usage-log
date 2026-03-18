@@ -160,19 +160,19 @@
   "2026-03-17": [
     {
       "modelName": "claude-opus-4-6",
-      "inputTokens": 195,
-      "outputTokens": 1340,
-      "cacheCreationTokens": 405323,
-      "cacheReadTokens": 4975572,
-      "cost": 5.055529750000002
+      "inputTokens": 228,
+      "outputTokens": 1417,
+      "cacheCreationTokens": 544946,
+      "cacheReadTokens": 5401381,
+      "cost": 6.143168000000002
     },
     {
       "modelName": "claude-haiku-4-5-20251001",
-      "inputTokens": 19,
-      "outputTokens": 92,
-      "cacheCreationTokens": 63914,
-      "cacheReadTokens": 876597,
-      "cost": 0.16803120000000007
+      "inputTokens": 11357,
+      "outputTokens": 134,
+      "cacheCreationTokens": 119335,
+      "cacheReadTokens": 1702317,
+      "cost": 0.33142745000000007
     }
   ]
 }
