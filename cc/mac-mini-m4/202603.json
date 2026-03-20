@@ -174,5 +174,25 @@
       "cacheReadTokens": 1702317,
       "cost": 0.33142745000000007
     }
+  ],
+  "2026-03-19": [
+    {
+      "modelName": "claude-sonnet-4-6",
+      "inputTokens": 140,
+      "outputTokens": 6891,
+      "cacheCreationTokens": 91738,
+      "cacheReadTokens": 2848654,
+      "cost": 1.3023987
+    }
+  ],
+  "2026-03-20": [
+    {
+      "modelName": "claude-sonnet-4-6",
+      "inputTokens": 43,
+      "outputTokens": 1854,
+      "cacheCreationTokens": 136702,
+      "cacheReadTokens": 1366102,
+      "cost": 0.9504021000000001
+    }
   ]
 }
