@@ -188,11 +188,11 @@
   "2026-03-20": [
     {
       "modelName": "claude-sonnet-4-6",
-      "inputTokens": 43,
-      "outputTokens": 1854,
-      "cacheCreationTokens": 136702,
-      "cacheReadTokens": 1366102,
-      "cost": 0.9504021000000001
+      "inputTokens": 24910,
+      "outputTokens": 19054,
+      "cacheCreationTokens": 641677,
+      "cacheReadTokens": 12458761,
+      "cost": 6.504457050000001
     }
   ]
 }
