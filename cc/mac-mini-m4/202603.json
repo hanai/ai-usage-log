@@ -194,5 +194,33 @@
       "cacheReadTokens": 12458761,
       "cost": 6.504457050000001
     }
+  ],
+  "2026-03-21": [
+    {
+      "modelName": "glm-4.7",
+      "inputTokens": 255127,
+      "outputTokens": 14198,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 628864,
+      "cost": 0.6130802499999997
+    },
+    {
+      "modelName": "claude-sonnet-4-6",
+      "inputTokens": 38,
+      "outputTokens": 1475,
+      "cacheCreationTokens": 31909,
+      "cacheReadTokens": 380061,
+      "cost": 0.25591605
+    }
+  ],
+  "2026-03-22": [
+    {
+      "modelName": "glm-4.7",
+      "inputTokens": 64018,
+      "outputTokens": 744,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 123008,
+      "cost": 0.14608650000000004
+    }
   ]
 }
