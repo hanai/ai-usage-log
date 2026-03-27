@@ -258,5 +258,91 @@
       "cacheReadTokens": 81643,
       "cost": 0.1820829
     }
+  ],
+  "2026-03-25": [
+    {
+      "modelName": "claude-sonnet-4-6",
+      "inputTokens": 12926,
+      "outputTokens": 3881,
+      "cacheCreationTokens": 300351,
+      "cacheReadTokens": 2335612,
+      "cost": 1.9239928500000003
+    },
+    {
+      "modelName": "claude-opus-4-6",
+      "inputTokens": 3744,
+      "outputTokens": 3392,
+      "cacheCreationTokens": 108521,
+      "cacheReadTokens": 1173172,
+      "cost": 1.36836225
+    },
+    {
+      "modelName": "claude-haiku-4-5-20251001",
+      "inputTokens": 9354,
+      "outputTokens": 5004,
+      "cacheCreationTokens": 148267,
+      "cacheReadTokens": 2723935,
+      "cost": 0.49210125
+    },
+    {
+      "modelName": "claude-sonnet-4.5",
+      "inputTokens": 77525,
+      "outputTokens": 6169,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 463372,
+      "cost": 0.4641216
+    },
+    {
+      "modelName": "glm-4.7",
+      "inputTokens": 147373,
+      "outputTokens": 9459,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 1696128,
+      "cost": 0.3576014999999999
+    }
+  ],
+  "2026-03-26": [
+    {
+      "modelName": "claude-sonnet-4-6",
+      "inputTokens": 892,
+      "outputTokens": 9406,
+      "cacheCreationTokens": 297418,
+      "cacheReadTokens": 1835718,
+      "cost": 1.8097989
+    },
+    {
+      "modelName": "glm-4.7",
+      "inputTokens": 111767,
+      "outputTokens": 12540,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 1594112,
+      "cost": 0.28596075000000004
+    },
+    {
+      "modelName": "glm-5",
+      "inputTokens": 191324,
+      "outputTokens": 13056,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 3292416,
+      "cost": 0.18648256000000005
+    }
+  ],
+  "2026-03-27": [
+    {
+      "modelName": "claude-sonnet-4.6",
+      "inputTokens": 917839,
+      "outputTokens": 24996,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 2851282,
+      "cost": 3.983841599999998
+    },
+    {
+      "modelName": "glm-4.7",
+      "inputTokens": 181227,
+      "outputTokens": 10538,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 1123456,
+      "cost": 0.43674024999999994
+    }
   ]
 }
