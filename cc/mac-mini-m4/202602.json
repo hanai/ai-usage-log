@@ -356,11 +356,11 @@
   "2026-02-26": [
     {
       "modelName": "claude-sonnet-4-6",
-      "inputTokens": 6122,
-      "outputTokens": 805,
-      "cacheCreationTokens": 289525,
-      "cacheReadTokens": 1571041,
-      "cost": 1.5874720500000004
+      "inputTokens": 38,
+      "outputTokens": 238,
+      "cacheCreationTokens": 102940,
+      "cacheReadTokens": 194939,
+      "cost": 0.44819070000000005
     },
     {
       "modelName": "glm-4.7",
