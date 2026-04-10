@@ -14,7 +14,7 @@
       "outputTokens": 11439,
       "cacheCreationTokens": 0,
       "cacheReadTokens": 617920,
-      "cost": 0.15767904
+      "cost": 0.18850214999999995
     },
     {
       "modelName": "claude-haiku-4-5-20251001",
@@ -80,7 +80,7 @@
       "outputTokens": 28753,
       "cacheCreationTokens": 0,
       "cacheReadTokens": 2378752,
-      "cost": 0.31907327999999985
+      "cost": 0.38206234999999994
     },
     {
       "modelName": "claude-opus-4-6",
@@ -324,7 +324,7 @@
       "outputTokens": 13056,
       "cacheCreationTokens": 0,
       "cacheReadTokens": 3292416,
-      "cost": 0.18648256000000005
+      "cost": 0.22288420000000003
     }
   ],
   "2026-03-27": [

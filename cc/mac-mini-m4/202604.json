@@ -26,5 +26,15 @@
       "cacheReadTokens": 480704,
       "cost": 0
     }
+  ],
+  "2026-04-09": [
+    {
+      "modelName": "claude-sonnet-4-6",
+      "inputTokens": 10,
+      "outputTokens": 120,
+      "cacheCreationTokens": 57152,
+      "cacheReadTokens": 18136,
+      "cost": 0.22159079999999998
+    }
   ]
 }
