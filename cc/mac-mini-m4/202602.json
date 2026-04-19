@@ -138,11 +138,11 @@
   "2026-02-09": [
     {
       "modelName": "gemini-3-pro-high",
-      "inputTokens": 6439257,
+      "inputTokens": 6194252,
       "outputTokens": 0,
       "cacheCreationTokens": 0,
       "cacheReadTokens": 0,
-      "cost": 12.878513999999997
+      "cost": 12.388504000000003
     },
     {
       "modelName": "claude-opus-4-5-thinking",
@@ -222,11 +222,11 @@
   "2026-02-11": [
     {
       "modelName": "claude-sonnet-4-5-20250929",
-      "inputTokens": 166,
-      "outputTokens": 1197,
-      "cacheCreationTokens": 330040,
-      "cacheReadTokens": 1104120,
-      "cost": 1.5873390000000003
+      "inputTokens": 47,
+      "outputTokens": 356,
+      "cacheCreationTokens": 86160,
+      "cacheReadTokens": 362978,
+      "cost": 0.43747440000000004
     }
   ],
   "2026-02-12": [
@@ -338,11 +338,11 @@
     },
     {
       "modelName": "claude-haiku-4-5-20251001",
-      "inputTokens": 53209,
-      "outputTokens": 116,
-      "cacheCreationTokens": 1366565,
-      "cacheReadTokens": 1461228,
-      "cost": 1.9081180500000006
+      "inputTokens": 22592,
+      "outputTokens": 99,
+      "cacheCreationTokens": 1296301,
+      "cacheReadTokens": 1340094,
+      "cost": 1.7774726500000004
     },
     {
       "modelName": "glm-4.7",

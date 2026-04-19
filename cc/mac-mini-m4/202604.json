@@ -2,11 +2,11 @@
   "2026-04-06": [
     {
       "modelName": "claude-sonnet-4-6",
-      "inputTokens": 29,
-      "outputTokens": 727,
-      "cacheCreationTokens": 75962,
-      "cacheReadTokens": 383356,
-      "cost": 0.41085629999999995
+      "inputTokens": 7,
+      "outputTokens": 192,
+      "cacheCreationTokens": 25124,
+      "cacheReadTokens": 72156,
+      "cost": 0.1187628
     },
     {
       "modelName": "glm-5.1",
@@ -80,6 +80,16 @@
       "outputTokens": 12263,
       "cacheCreationTokens": 0,
       "cacheReadTokens": 421568,
+      "cost": 0
+    }
+  ],
+  "2026-04-19": [
+    {
+      "modelName": "glm-5.1",
+      "inputTokens": 536008,
+      "outputTokens": 44924,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 39808704,
       "cost": 0
     }
   ]

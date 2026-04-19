@@ -66,11 +66,11 @@
   "2026-03-07": [
     {
       "modelName": "claude-opus-4-6",
-      "inputTokens": 3365,
-      "outputTokens": 8501,
-      "cacheCreationTokens": 155304,
-      "cacheReadTokens": 292326,
-      "cost": 1.3461629999999996
+      "inputTokens": 3312,
+      "outputTokens": 7,
+      "cacheCreationTokens": 10820,
+      "cacheReadTokens": 4442,
+      "cost": 0.08658100000000002
     }
   ],
   "2026-03-08": [
@@ -188,11 +188,11 @@
   "2026-03-20": [
     {
       "modelName": "claude-sonnet-4-6",
-      "inputTokens": 24910,
-      "outputTokens": 19054,
-      "cacheCreationTokens": 641677,
-      "cacheReadTokens": 12458761,
-      "cost": 6.504457050000001
+      "inputTokens": 19058,
+      "outputTokens": 13088,
+      "cacheCreationTokens": 373379,
+      "cacheReadTokens": 9632456,
+      "cost": 4.54340205
     }
   ],
   "2026-03-21": [
@@ -224,21 +224,21 @@
     },
     {
       "modelName": "claude-sonnet-4-6",
-      "inputTokens": 6079,
-      "outputTokens": 102859,
-      "cacheCreationTokens": 1483786,
-      "cacheReadTokens": 30951704,
-      "cost": 16.410830700000012
+      "inputTokens": 872,
+      "outputTokens": 1270,
+      "cacheCreationTokens": 22763,
+      "cacheReadTokens": 401521,
+      "cost": 0.22748355
     }
   ],
   "2026-03-23": [
     {
       "modelName": "claude-sonnet-4-6",
-      "inputTokens": 1735,
-      "outputTokens": 19344,
-      "cacheCreationTokens": 232272,
-      "cacheReadTokens": 8007848,
-      "cost": 3.568739399999999
+      "inputTokens": 1568,
+      "outputTokens": 4280,
+      "cacheCreationTokens": 60844,
+      "cacheReadTokens": 1382907,
+      "cost": 0.7119411000000001
     }
   ],
   "2026-03-24": [
@@ -252,11 +252,11 @@
     },
     {
       "modelName": "claude-sonnet-4-6",
-      "inputTokens": 15,
-      "outputTokens": 22,
-      "cacheCreationTokens": 41924,
-      "cacheReadTokens": 81643,
-      "cost": 0.1820829
+      "inputTokens": 3,
+      "outputTokens": 0,
+      "cacheCreationTokens": 10673,
+      "cacheReadTokens": 0,
+      "cost": 0.040032750000000006
     }
   ],
   "2026-03-25": [
@@ -330,11 +330,11 @@
   "2026-03-27": [
     {
       "modelName": "claude-sonnet-4.6",
-      "inputTokens": 917839,
-      "outputTokens": 24996,
+      "inputTokens": 444445,
+      "outputTokens": 5680,
       "cacheCreationTokens": 0,
-      "cacheReadTokens": 2851282,
-      "cost": 3.983841599999998
+      "cacheReadTokens": 886214,
+      "cost": 1.6843991999999999
     },
     {
       "modelName": "glm-4.7",
