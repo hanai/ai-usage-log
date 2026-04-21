@@ -112,26 +112,68 @@
   "2026-04-20": [
     {
       "modelName": "claude-sonnet-4.6",
-      "inputTokens": 1225235,
-      "outputTokens": 415007,
+      "inputTokens": 2356646,
+      "outputTokens": 555289,
       "cacheCreationTokens": 0,
-      "cacheReadTokens": 56841293,
-      "cost": 26.95319789999999
+      "cacheReadTokens": 73070483,
+      "cost": 37.32041790000004
     },
     {
       "modelName": "claude-sonnet-4-6",
-      "inputTokens": 13,
-      "outputTokens": 3241,
-      "cacheCreationTokens": 11648,
-      "cacheReadTokens": 177425,
-      "cost": 0.14556149999999998
+      "inputTokens": 1517,
+      "outputTokens": 84222,
+      "cacheCreationTokens": 470783,
+      "cacheReadTokens": 12362050,
+      "cost": 6.741932249999996
     },
     {
       "modelName": "glm-5.1",
-      "inputTokens": 411832,
-      "outputTokens": 14318,
+      "inputTokens": 516450,
+      "outputTokens": 24622,
       "cacheCreationTokens": 0,
-      "cacheReadTokens": 6177472,
+      "cacheReadTokens": 12873024,
+      "cost": 0
+    },
+    {
+      "modelName": "claude-opus-4-7",
+      "inputTokens": 1661,
+      "outputTokens": 47197,
+      "cacheCreationTokens": 367715,
+      "cacheReadTokens": 8826135,
+      "cost": 7.899516250000003
+    },
+    {
+      "modelName": "claude-haiku-4-5-20251001",
+      "inputTokens": 103,
+      "outputTokens": 5585,
+      "cacheCreationTokens": 92994,
+      "cacheReadTokens": 1293788,
+      "cost": 0.2736493
+    },
+    {
+      "modelName": "gpt-5.4",
+      "inputTokens": 50426,
+      "outputTokens": 233,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 33792,
+      "cost": 0.13800800000000002
+    }
+  ],
+  "2026-04-21": [
+    {
+      "modelName": "claude-sonnet-4.6",
+      "inputTokens": 901288,
+      "outputTokens": 287510,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 34232777,
+      "cost": 17.286347099999993
+    },
+    {
+      "modelName": "glm-5.1",
+      "inputTokens": 34054,
+      "outputTokens": 645,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 67584,
       "cost": 0
     }
   ]
