@@ -330,11 +330,11 @@
   "2026-03-27": [
     {
       "modelName": "claude-sonnet-4.6",
-      "inputTokens": 444445,
-      "outputTokens": 5680,
+      "inputTokens": 53901,
+      "outputTokens": 406,
       "cacheCreationTokens": 0,
-      "cacheReadTokens": 886214,
-      "cost": 1.6843991999999999
+      "cacheReadTokens": 74367,
+      "cost": 0.1901031
     },
     {
       "modelName": "glm-4.7",
