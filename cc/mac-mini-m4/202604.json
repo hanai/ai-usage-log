@@ -356,11 +356,29 @@
   "2026-04-26": [
     {
       "modelName": "glm-5.1",
-      "inputTokens": 1108271,
-      "outputTokens": 37856,
+      "inputTokens": 1754997,
+      "outputTokens": 44139,
       "cacheCreationTokens": 0,
-      "cacheReadTokens": 8529984,
+      "cacheReadTokens": 9600320,
       "cost": 0
+    },
+    {
+      "modelName": "claude-opus-4-7",
+      "inputTokens": 7478,
+      "outputTokens": 25863,
+      "cacheCreationTokens": 162789,
+      "cacheReadTokens": 3305180,
+      "cost": 3.35398625
+    }
+  ],
+  "2026-04-27": [
+    {
+      "modelName": "claude-opus-4-7",
+      "inputTokens": 37,
+      "outputTokens": 8917,
+      "cacheCreationTokens": 62603,
+      "cacheReadTokens": 1053853,
+      "cost": 1.14130525
     }
   ]
 }
