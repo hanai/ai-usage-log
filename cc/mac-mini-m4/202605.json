@@ -370,19 +370,19 @@
   "2026-05-25": [
     {
       "modelName": "claude-sonnet-4-6",
-      "inputTokens": 17766,
-      "outputTokens": 34215,
-      "cacheCreationTokens": 646980,
-      "cacheReadTokens": 14488461,
-      "cost": 7.339236299999995
+      "inputTokens": 31954,
+      "outputTokens": 49768,
+      "cacheCreationTokens": 922187,
+      "cacheReadTokens": 19004122,
+      "cost": 10.001819850000008
     },
     {
       "modelName": "claude-opus-4-7",
-      "inputTokens": 7436,
-      "outputTokens": 70269,
-      "cacheCreationTokens": 260709,
-      "cacheReadTokens": 4438050,
-      "cost": 5.642361249999999
+      "inputTokens": 7496,
+      "outputTokens": 104065,
+      "cacheCreationTokens": 724074,
+      "cacheReadTokens": 8949491,
+      "cost": 11.639312999999998
     }
   ]
 }
