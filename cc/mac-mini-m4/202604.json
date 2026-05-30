@@ -316,7 +316,7 @@
       "outputTokens": 68094,
       "cacheCreationTokens": 145986,
       "cacheReadTokens": 3547300,
-      "cost": 0
+      "cost": 4.3888975
     },
     {
       "modelName": "claude-sonnet-4-6",
@@ -350,7 +350,7 @@
       "outputTokens": 60920,
       "cacheCreationTokens": 455854,
       "cacheReadTokens": 12147515,
-      "cost": 0
+      "cost": 10.446730000000004
     }
   ],
   "2026-04-26": [
@@ -368,7 +368,7 @@
       "outputTokens": 25863,
       "cacheCreationTokens": 162789,
       "cacheReadTokens": 3305180,
-      "cost": 0
+      "cost": 3.35398625
     }
   ],
   "2026-04-27": [
@@ -378,7 +378,7 @@
       "outputTokens": 46020,
       "cacheCreationTokens": 279739,
       "cacheReadTokens": 7032394,
-      "cost": 0
+      "cost": 6.4231307499999994
     },
     {
       "modelName": "glm-5.1",
@@ -396,7 +396,7 @@
       "outputTokens": 4138,
       "cacheCreationTokens": 61817,
       "cacheReadTokens": 562956,
-      "cost": 0
+      "cost": 0.7714442499999998
     }
   ],
   "2026-04-29": [
@@ -406,7 +406,7 @@
       "outputTokens": 9172,
       "cacheCreationTokens": 20486,
       "cacheReadTokens": 1364943,
-      "cost": 0
+      "cost": 1.040064
     }
   ]
 }
