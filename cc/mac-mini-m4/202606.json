@@ -1,0 +1,22 @@
+{
+  "2026-06-06": [
+    {
+      "modelName": "claude-opus-4-8",
+      "inputTokens": 50352,
+      "outputTokens": 71674,
+      "cacheCreationTokens": 294392,
+      "cacheReadTokens": 3955047,
+      "cost": 5.8610835
+    }
+  ],
+  "2026-06-07": [
+    {
+      "modelName": "claude-opus-4-8",
+      "inputTokens": 44359,
+      "outputTokens": 40167,
+      "cacheCreationTokens": 676626,
+      "cacheReadTokens": 6482763,
+      "cost": 8.696264000000006
+    }
+  ]
+}
