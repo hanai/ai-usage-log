@@ -80,26 +80,26 @@
     },
     {
       "modelName": "claude-opus-4-7",
-      "inputTokens": 73,
-      "outputTokens": 53072,
-      "cacheCreationTokens": 264615,
-      "cacheReadTokens": 4045896,
-      "cost": 5.00395675
+      "inputTokens": 36,
+      "outputTokens": 42202,
+      "cacheCreationTokens": 104333,
+      "cacheReadTokens": 2232963,
+      "cost": 2.82379275
     },
     {
       "modelName": "claude-haiku-4-5-20251001",
-      "inputTokens": 3967,
-      "outputTokens": 4654,
-      "cacheCreationTokens": 210633,
-      "cacheReadTokens": 2912867,
-      "cost": 0.5818149499999999
+      "inputTokens": 3959,
+      "outputTokens": 4650,
+      "cacheCreationTokens": 184230,
+      "cacheReadTokens": 2888919,
+      "cost": 0.5463883999999998
     },
     {
       "modelName": "glm-5.1",
-      "inputTokens": 1062963,
-      "outputTokens": 5249,
+      "inputTokens": 932500,
+      "outputTokens": 4051,
       "cacheCreationTokens": 0,
-      "cacheReadTokens": 1545216,
+      "cacheReadTokens": 1315776,
       "cost": 0
     }
   ],

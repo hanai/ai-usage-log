@@ -12,11 +12,21 @@
   "2026-06-07": [
     {
       "modelName": "claude-opus-4-8",
-      "inputTokens": 44359,
-      "outputTokens": 40167,
-      "cacheCreationTokens": 676626,
-      "cacheReadTokens": 6482763,
-      "cost": 8.696264000000006
+      "inputTokens": 87307,
+      "outputTokens": 100637,
+      "cacheCreationTokens": 890970,
+      "cacheReadTokens": 12668736,
+      "cost": 14.855390500000015
+    }
+  ],
+  "2026-06-08": [
+    {
+      "modelName": "claude-opus-4-8",
+      "inputTokens": 460202,
+      "outputTokens": 26801,
+      "cacheCreationTokens": 949681,
+      "cacheReadTokens": 2497514,
+      "cost": 10.155298250000008
     }
   ]
 }
