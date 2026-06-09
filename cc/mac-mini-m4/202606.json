@@ -22,11 +22,27 @@
   "2026-06-08": [
     {
       "modelName": "claude-opus-4-8",
-      "inputTokens": 460202,
-      "outputTokens": 26801,
-      "cacheCreationTokens": 949681,
-      "cacheReadTokens": 2497514,
-      "cost": 10.155298250000008
+      "inputTokens": 851623,
+      "outputTokens": 47130,
+      "cacheCreationTokens": 1833918,
+      "cacheReadTokens": 5411269,
+      "cost": 19.60398700000003
+    },
+    {
+      "modelName": "claude-sonnet-4-6",
+      "inputTokens": 14169,
+      "outputTokens": 14196,
+      "cacheCreationTokens": 481436,
+      "cacheReadTokens": 1649071,
+      "cost": 2.5555532999999993
+    },
+    {
+      "modelName": "glm-5.1",
+      "inputTokens": 12813145,
+      "outputTokens": 263112,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 26663040,
+      "cost": 0
     }
   ]
 }
