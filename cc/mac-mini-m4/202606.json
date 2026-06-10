@@ -44,5 +44,15 @@
       "cacheReadTokens": 26663040,
       "cost": 0
     }
+  ],
+  "2026-06-09": [
+    {
+      "modelName": "glm-5.1",
+      "inputTokens": 63940,
+      "outputTokens": 2158,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 512,
+      "cost": 0
+    }
   ]
 }
