@@ -124,11 +124,11 @@
     },
     {
       "modelName": "claude-sonnet-4.6",
-      "inputTokens": 183083,
-      "outputTokens": 13130,
+      "inputTokens": 149415,
+      "outputTokens": 13121,
       "cacheCreationTokens": 0,
       "cacheReadTokens": 1741787,
-      "cost": 1.2687350999999996
+      "cost": 1.1675961
     },
     {
       "modelName": "claude-sonnet-4-6",
