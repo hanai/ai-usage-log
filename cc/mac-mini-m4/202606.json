@@ -68,11 +68,11 @@
   "2026-06-13": [
     {
       "modelName": "claude-opus-4-8",
-      "inputTokens": 1910,
-      "outputTokens": 139421,
-      "cacheCreationTokens": 665506,
-      "cacheReadTokens": 8105233,
-      "cost": 11.707104000000001
+      "inputTokens": 2595,
+      "outputTokens": 194229,
+      "cacheCreationTokens": 1442176,
+      "cacheReadTokens": 14526464,
+      "cost": 21.145531999999996
     }
   ]
 }
