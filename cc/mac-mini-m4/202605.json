@@ -168,11 +168,11 @@
   "2026-05-15": [
     {
       "modelName": "claude-sonnet-4-6",
-      "inputTokens": 17513,
-      "outputTokens": 175703,
-      "cacheCreationTokens": 937672,
-      "cacheReadTokens": 20516075,
-      "cost": 12.35917650000001
+      "inputTokens": 17452,
+      "outputTokens": 148483,
+      "cacheCreationTokens": 867907,
+      "cacheReadTokens": 18095991,
+      "cost": 10.963049550000006
     },
     {
       "modelName": "claude-opus-4-7",
