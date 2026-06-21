@@ -166,5 +166,49 @@
       "cacheReadTokens": 70605312,
       "cost": 0
     }
+  ],
+  "2026-06-20": [
+    {
+      "modelName": "claude-opus-4-8",
+      "inputTokens": 12286,
+      "outputTokens": 33229,
+      "cacheCreationTokens": 115347,
+      "cacheReadTokens": 1061563,
+      "cost": 2.14385525
+    }
+  ],
+  "2026-06-21": [
+    {
+      "modelName": "claude-opus-4-8",
+      "inputTokens": 76641,
+      "outputTokens": 109708,
+      "cacheCreationTokens": 470594,
+      "cacheReadTokens": 7186641,
+      "cost": 9.660438000000012
+    },
+    {
+      "modelName": "claude-sonnet-4-6",
+      "inputTokens": 147,
+      "outputTokens": 16309,
+      "cacheCreationTokens": 133517,
+      "cacheReadTokens": 1470154,
+      "cost": 1.1868109500000004
+    },
+    {
+      "modelName": "glm-4.7",
+      "inputTokens": 338916,
+      "outputTokens": 62157,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 12894208,
+      "cost": 0.9334927500000001
+    },
+    {
+      "modelName": "glm-5.2",
+      "inputTokens": 3905622,
+      "outputTokens": 1167118,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 50917824,
+      "cost": 0
+    }
   ]
 }
