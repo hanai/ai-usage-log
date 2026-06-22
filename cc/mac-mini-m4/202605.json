@@ -300,11 +300,11 @@
   "2026-05-22": [
     {
       "modelName": "claude-opus-4-7",
-      "inputTokens": 40,
-      "outputTokens": 10291,
-      "cacheCreationTokens": 89369,
-      "cacheReadTokens": 1143245,
-      "cost": 1.3876537500000001
+      "inputTokens": 24,
+      "outputTokens": 7551,
+      "cacheCreationTokens": 48577,
+      "cacheReadTokens": 758064,
+      "cost": 0.8715332499999999
     },
     {
       "modelName": "claude-sonnet-4-6",
@@ -364,7 +364,7 @@
       "outputTokens": 136562,
       "cacheCreationTokens": 0,
       "cacheReadTokens": 16402368,
-      "cost": 0
+      "cost": 3.2206410000000014
     }
   ],
   "2026-05-25": [

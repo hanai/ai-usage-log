@@ -42,7 +42,7 @@
       "outputTokens": 263112,
       "cacheCreationTokens": 0,
       "cacheReadTokens": 26663040,
-      "cost": 0
+      "cost": 19.09609580000001
     }
   ],
   "2026-06-09": [
@@ -52,7 +52,7 @@
       "outputTokens": 2158,
       "cacheCreationTokens": 0,
       "cacheReadTokens": 512,
-      "cost": 0
+      "cost": 0.0990112
     }
   ],
   "2026-06-12": [
@@ -180,19 +180,19 @@
   "2026-06-21": [
     {
       "modelName": "claude-opus-4-8",
-      "inputTokens": 76641,
-      "outputTokens": 109708,
-      "cacheCreationTokens": 470594,
-      "cacheReadTokens": 7186641,
-      "cost": 9.660438000000012
+      "inputTokens": 185301,
+      "outputTokens": 310070,
+      "cacheCreationTokens": 1208360,
+      "cacheReadTokens": 19987291,
+      "cost": 26.2241505
     },
     {
       "modelName": "claude-sonnet-4-6",
-      "inputTokens": 147,
-      "outputTokens": 16309,
-      "cacheCreationTokens": 133517,
-      "cacheReadTokens": 1470154,
-      "cost": 1.1868109500000004
+      "inputTokens": 236,
+      "outputTokens": 31359,
+      "cacheCreationTokens": 248780,
+      "cacheReadTokens": 2534992,
+      "cost": 2.164515600000002
     },
     {
       "modelName": "glm-4.7",
@@ -204,10 +204,20 @@
     },
     {
       "modelName": "glm-5.2",
-      "inputTokens": 3905622,
-      "outputTokens": 1167118,
+      "inputTokens": 5856483,
+      "outputTokens": 1361285,
       "cacheCreationTokens": 0,
-      "cacheReadTokens": 50917824,
+      "cacheReadTokens": 73276352,
+      "cost": 0
+    }
+  ],
+  "2026-06-22": [
+    {
+      "modelName": "glm-5.2",
+      "inputTokens": 197449,
+      "outputTokens": 30582,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 677376,
       "cost": 0
     }
   ]
