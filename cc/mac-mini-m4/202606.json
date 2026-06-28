@@ -252,11 +252,19 @@
   "2026-06-27": [
     {
       "modelName": "claude-opus-4-8",
-      "inputTokens": 10813,
-      "outputTokens": 18887,
-      "cacheCreationTokens": 53453,
-      "cacheReadTokens": 922233,
-      "cost": 1.3214377499999996
+      "inputTokens": 203118,
+      "outputTokens": 464525,
+      "cacheCreationTokens": 955857,
+      "cacheReadTokens": 58861635,
+      "cost": 48.03363875
+    },
+    {
+      "modelName": "glm-5.2",
+      "inputTokens": 234235,
+      "outputTokens": 37108,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 1182720,
+      "cost": 0.7987114
     }
   ]
 }
