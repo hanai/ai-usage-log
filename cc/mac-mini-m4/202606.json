@@ -304,11 +304,11 @@
     },
     {
       "modelName": "claude-opus-4-8",
-      "inputTokens": 22430,
-      "outputTokens": 123899,
-      "cacheCreationTokens": 284664,
-      "cacheReadTokens": 6515959,
-      "cost": 8.246754499999998
+      "inputTokens": 50907,
+      "outputTokens": 384110,
+      "cacheCreationTokens": 1506316,
+      "cacheReadTokens": 33057218,
+      "cost": 35.800368999999996
     }
   ]
 }
