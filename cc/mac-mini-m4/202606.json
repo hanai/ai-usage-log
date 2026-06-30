@@ -310,5 +310,23 @@
       "cacheReadTokens": 33057218,
       "cost": 35.800368999999996
     }
+  ],
+  "2026-06-30": [
+    {
+      "modelName": "glm-5.2",
+      "inputTokens": 842481,
+      "outputTokens": 109135,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 11054464,
+      "cost": 4.533828039999998
+    },
+    {
+      "modelName": "claude-opus-4-8",
+      "inputTokens": 22595,
+      "outputTokens": 19259,
+      "cacheCreationTokens": 138106,
+      "cacheReadTokens": 545487,
+      "cost": 1.7303560000000002
+    }
   ]
 }
