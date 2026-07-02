@@ -1,0 +1,46 @@
+{
+  "2026-07-01": [
+    {
+      "modelName": "claude-sonnet-5",
+      "inputTokens": 22067,
+      "outputTokens": 41142,
+      "cacheCreationTokens": 219641,
+      "cacheReadTokens": 4000098,
+      "cost": 2.70701415
+    },
+    {
+      "modelName": "claude-opus-4-8",
+      "inputTokens": 10583,
+      "outputTokens": 147,
+      "cacheCreationTokens": 3846,
+      "cacheReadTokens": 15223,
+      "cost": 0.088239
+    }
+  ],
+  "2026-07-02": [
+    {
+      "modelName": "claude-opus-4-8",
+      "inputTokens": 68806,
+      "outputTokens": 109135,
+      "cacheCreationTokens": 472648,
+      "cacheReadTokens": 6221644,
+      "cost": 9.137277000000001
+    },
+    {
+      "modelName": "claude-sonnet-5",
+      "inputTokens": 45388,
+      "outputTokens": 48484,
+      "cacheCreationTokens": 236714,
+      "cacheReadTokens": 6075927,
+      "cost": 3.573879600000001
+    },
+    {
+      "modelName": "claude-haiku-4-5-20251001",
+      "inputTokens": 784,
+      "outputTokens": 351,
+      "cacheCreationTokens": 131790,
+      "cacheReadTokens": 1468285,
+      "cost": 0.31410499999999997
+    }
+  ]
+}
