@@ -69,6 +69,40 @@
       "cacheCreationTokens": 189407,
       "cacheReadTokens": 1743015,
       "cost": 2.8457462500000004
+    },
+    {
+      "modelName": "claude-sonnet-5",
+      "inputTokens": 38837,
+      "outputTokens": 53183,
+      "cacheCreationTokens": 213719,
+      "cacheReadTokens": 7140846,
+      "cost": 2.5719707
+    },
+    {
+      "modelName": "claude-fable-5",
+      "inputTokens": 10528,
+      "outputTokens": 74,
+      "cacheCreationTokens": 20697,
+      "cacheReadTokens": 0,
+      "cost": 0.36769250000000003
+    }
+  ],
+  "2026-07-05": [
+    {
+      "modelName": "claude-fable-5",
+      "inputTokens": 7537,
+      "outputTokens": 85228,
+      "cacheCreationTokens": 118588,
+      "cacheReadTokens": 6474776,
+      "cost": 12.293896
+    },
+    {
+      "modelName": "claude-sonnet-5",
+      "inputTokens": 26,
+      "outputTokens": 13330,
+      "cacheCreationTokens": 35779,
+      "cacheReadTokens": 695835,
+      "cost": 0.3619665
     }
   ]
 }
