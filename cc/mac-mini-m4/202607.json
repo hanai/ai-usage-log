@@ -90,19 +90,19 @@
   "2026-07-05": [
     {
       "modelName": "claude-fable-5",
-      "inputTokens": 7537,
-      "outputTokens": 85228,
-      "cacheCreationTokens": 118588,
-      "cacheReadTokens": 6474776,
-      "cost": 12.293896
+      "inputTokens": 18299,
+      "outputTokens": 92283,
+      "cacheCreationTokens": 328372,
+      "cacheReadTokens": 7008242,
+      "cost": 15.910032000000001
     },
     {
       "modelName": "claude-sonnet-5",
-      "inputTokens": 26,
-      "outputTokens": 13330,
-      "cacheCreationTokens": 35779,
-      "cacheReadTokens": 695835,
-      "cost": 0.3619665
+      "inputTokens": 462,
+      "outputTokens": 159764,
+      "cacheCreationTokens": 631229,
+      "cacheReadTokens": 23009899,
+      "cost": 7.778616299999997
     }
   ]
 }
