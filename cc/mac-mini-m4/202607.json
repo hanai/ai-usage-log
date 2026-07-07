@@ -104,5 +104,23 @@
       "cacheReadTokens": 23009899,
       "cost": 7.778616299999997
     }
+  ],
+  "2026-07-06": [
+    {
+      "modelName": "claude-fable-5",
+      "inputTokens": 18817,
+      "outputTokens": 66218,
+      "cacheCreationTokens": 211107,
+      "cacheReadTokens": 9228145,
+      "cost": 15.3660525
+    },
+    {
+      "modelName": "claude-sonnet-5",
+      "inputTokens": 38,
+      "outputTokens": 8258,
+      "cacheCreationTokens": 36081,
+      "cacheReadTokens": 982746,
+      "cost": 0.3694077
+    }
   ]
 }
