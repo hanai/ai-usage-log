@@ -154,11 +154,19 @@
   "2026-07-13": [
     {
       "modelName": "claude-fable-5",
-      "inputTokens": 27,
-      "outputTokens": 13028,
-      "cacheCreationTokens": 18280,
-      "cacheReadTokens": 1219781,
-      "cost": 2.099951
+      "inputTokens": 111,
+      "outputTokens": 69154,
+      "cacheCreationTokens": 191110,
+      "cacheReadTokens": 4290488,
+      "cost": 10.138173000000002
+    },
+    {
+      "modelName": "gpt-5.6-sol",
+      "inputTokens": 94087,
+      "outputTokens": 429,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 22016,
+      "cost": 0.49431300000000006
     }
   ]
 }
