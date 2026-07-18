@@ -250,11 +250,11 @@
   "2026-07-18": [
     {
       "modelName": "claude-fable-5",
-      "inputTokens": 154,
-      "outputTokens": 101307,
-      "cacheCreationTokens": 425516,
-      "cacheReadTokens": 18275491,
-      "cost": 28.661330999999997
+      "inputTokens": 1606,
+      "outputTokens": 325636,
+      "cacheCreationTokens": 1657945,
+      "cacheReadTokens": 39430546,
+      "cost": 76.45271849999997
     },
     {
       "modelName": "claude-sonnet-5",
@@ -263,6 +263,24 @@
       "cacheCreationTokens": 58931,
       "cacheReadTokens": 29506,
       "cost": 0.15874670000000002
+    },
+    {
+      "modelName": "glm-5.2",
+      "inputTokens": 273004,
+      "outputTokens": 101522,
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 3409024,
+      "cost": 1.71524864
+    }
+  ],
+  "2026-07-19": [
+    {
+      "modelName": "claude-fable-5",
+      "inputTokens": 26,
+      "outputTokens": 9912,
+      "cacheCreationTokens": 375046,
+      "cacheReadTokens": 1540060,
+      "cost": 6.723995000000001
     }
   ]
 }
